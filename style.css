@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana;
+}
+main{
+    background-color: #111;
+}
+header{
+    background: linear-gradient(to right, #ff0000, #000000);
+    padding: 45px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding:60px 40px 10px 40px; 
+}
+section{
+    color: white;
+}
+.p1{
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 48px;
+}
+.sec1{
+    display: flex;
+    justify-content: space-between;
+}
+.imghonda{
+    height: 400px;
+    width: 500px;
+    border-radius: 11px;
+}
+.imgsupra{
+    height: 400px;
+    width: 533px;
+    border-radius: 11px;
+}
+.honda{
+    margin: 30px 0px 30px 168px;
+    font-weight: bold;
+}
+.sec11 ul{
+    text-align: center;
+    margin: 15px;
+    list-style: none;
+}
+.sec11{
+    margin-left:150px;
+}
+.sec12 ul{
+    text-align: center;
+    margin: 15px;
+    list-style: none;
+}
+.sec12{
+    margin-right:130px;
+}
+.sec1{
+    margin-bottom: 115px;
+}
+.nisp{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.nismo{
+    height: 400px;
+    width: 650px;
+    border-radius: 11px;
+}
+.koe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nisful ul{
+    text-align: center;
+    margin: 15px;
+    list-style: none;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background: #222;
+    padding: 15px;
+    margin-top: 20px;
+}
