@@ -99,11 +99,11 @@ footer{
 }
 @media (max-width: 768px){
     .sec11, .sec12,.nisful{
-        flex-direction: column;
+        flex-direction: column; /* карточки теперь одна под другой */
         align-items: center;
     }
     .sec11, .sec12,.nisful{
-        width: 90%;
+        width: 90%; /* ширина карточки — почти вся ширина телефона */
         margin-bottom: 20px;
     }
 }
