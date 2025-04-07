@@ -83,13 +83,19 @@ section{
     margin: 15px;
     list-style: none;
 }
+.sec11, .sec12,.nisful {
+    transition: transform 0.3s ease-in-out;
+}
+.sec11:hover, .sec12:hover,.nisful:hover {
+    transform: scale(1.090);
+}
 footer{
     color: white;
     text-align: center;
     font-weight: bold;
     background: #222;
     padding: 15px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 @media (max-width: 768px){
     .sec11, .sec12,.nisful{
